@@ -1,0 +1,14 @@
+.title-year{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+
+.img-movieDetail{
+    position: relative;
+    left: 540px;
+}
+
+.descrShort-movieDetail{
+    font-family: cursive;
+}

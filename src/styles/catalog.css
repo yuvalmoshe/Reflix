@@ -1,0 +1,49 @@
+.flix-movies {
+    display: flex;
+    flex-wrap: nowrap;
+    /* margin-left: 100px; */
+    position: relative;
+    
+}
+
+.catlog-text{
+    position: relative;
+    left: 15px;
+    font-family: cursive;
+}
+
+.rented-text{
+    position: relative;
+    left: 15px;
+    font-family: cursive;
+    bottom: 40px;
+}
+
+.flex-img {
+    margin: 10px;
+}
+
+.icon-add{
+    border-radius: 50%;
+    position: relative;
+    bottom: 184px;
+    left: 198px;
+}
+
+.search-input {
+    background-color: black;
+    border-radius: 5px;
+    border-color: black;
+    color: white;
+    position: relative;
+    bottom: 35px;
+    font-family: cursive;
+}
+
+.money {
+    float:right;
+    position: relative;
+    bottom: 35px;
+    right: 20px;
+    font-family: cursive;
+}
